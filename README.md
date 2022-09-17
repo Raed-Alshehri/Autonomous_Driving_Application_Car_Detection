@@ -60,7 +60,7 @@ from yad2k.utils.utils import draw_boxes, get_colors_for_classes, scale_boxes, r
 <a name='1'></a>
 ## 1 - Problem Statement
 
-You are working on a self-driving car. Go you! As a critical component of this project, you'd like to first build a car detection system. To collect data, you've mounted a camera to the hood of the car, which takes pictures of the road ahead every few seconds as you drive around. 
+You are working on a self-driving car. As a critical component of this project, you'd like to first build a car detection system. To collect data, you've mounted a camera to the hood of the car, which takes pictures of the road ahead every few seconds as you drive around. 
 
 <center>
 <video width="400" height="200" src="nb_images/road_video_compressed2.mp4" type="video/mp4" controls>
